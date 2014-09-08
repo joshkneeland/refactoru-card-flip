@@ -1,5 +1,3 @@
-# This is the card flip exercsie
+# This is the card flip exercise
 
-* Here is item 1
-* Here is item 2
-
+* Practice with HTML and CSS
